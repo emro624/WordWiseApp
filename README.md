@@ -5,7 +5,7 @@ WordWise is a mobile language learning application developed using React Native 
 🚀 Features
 🔐 User Authentication – Secure login and registration system
 
-***Story Mode
+📖📖📖Story Mode
 
 📚 Custom Word Lists – Create vocabulary lists from your favorite content (books, articles, etc.)
 
@@ -46,7 +46,7 @@ This project was developed in collaboration with:
 
 👨‍🏫 Sarp Çoban (Mentor)
 
-------------->>>>  AİGİLE
+🤖🤖 AİGİLE 🤖🤖
 
 📲 Getting Started
 bash
