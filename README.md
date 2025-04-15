@@ -1,4 +1,3 @@
-:
 
 🌟 WordWise - Personalized Language Learning App
 WordWise is a mobile language learning application developed using React Native with Expo, inspired by the WordPecker web platform. This app was created as part of a 2-week challenge project and focuses on helping users learn vocabulary through personalized lists, interactive exercises, and quizzes.
